@@ -7,4 +7,4 @@ Contains:
 - Resources:
   - crypto_market_data.csv: csv used for analyzing
  
-- Crypto_Clustering.ipynb: Main script to analyze and cluster the crypto market data
+- Crypto_Clustering.ipynb: Main script to analyze and cluster the crypto market data with and without principal component analysis (PCA)
